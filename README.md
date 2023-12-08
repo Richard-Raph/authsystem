@@ -44,7 +44,7 @@ Happy coding!
 If you find this website useful, there are a couple ways you can show your support and appreciation:
 
 - Star this repository to help more developers discover the project
-- If you use any code components, consider tweeting your creation and tagging me to see what you've built
+- If you use any code views, consider tweeting your creation and tagging me to see what you've built
 
 My goal is simply to provide web dev resources that empower builders of all skill levels. Please reach out if you have any feedback on how these materials can be improved or expanded. Community input directly enables maintenance and growth of projects like this.
 
